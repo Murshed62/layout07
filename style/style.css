@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+}
+header{
+    background-color: black;
+    color: white;
+    height: 70px;
+    text-align: center;
+}
+.nav{
+    background-color: green;
+    color: white;
+    height: 60px;
+    text-align: center;
+}
+.content{
+    overflow: hidden;
+}
+.left_content{
+background-color: rgb(165, 42, 124);
+width: 80%;
+float: left;
+color: white;
+height: 450px;
+text-align: center;
+font-size: 50px;
+}
+.right_content{
+background-color: darkblue;
+width: 20%;
+float: right;
+color: white;
+height: 450px;
+text-align: center;
+font-size: large;
+
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 60px;
+}
